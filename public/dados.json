@@ -1,0 +1,37 @@
+[
+  {
+    "lesao": "Dor joelho",
+    "esporte": "futebol",
+    "metodo": "gelo no joelho"
+  },
+  {
+    "lesao": "Dor na virilha",
+    "esporte": "futebol",
+    "metodo": "descanso, se alimentar bem, ficar 6 meses sem praticar nenhum esporte apenas vivendo de alongamentos"
+  },
+  {
+    "lesao": "Dor na lombar",
+    "esporte": "Basketball",
+    "metodo": "Descanso frequente, gelo e alimentar bem"
+  },
+  {
+    "lesao": "Dor no calcanhar",
+    "esporte": "Tenis",
+    "metodo": "Desncao regular"
+  },
+  {
+    "lesao": "Dor na lombar",
+    "esporte": "Basketball",
+    "metodo": "descanso regular todos os dias as manhas"
+  },
+  {
+    "lesao": "Dor na perna",
+    "esporte": "Futebol",
+    "metodo": "Gelo"
+  },
+  {
+    "lesao": "Dor na perna",
+    "esporte": "Futebol",
+    "metodo": "Gelo"
+  }
+]
